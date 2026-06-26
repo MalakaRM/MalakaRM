@@ -7,7 +7,7 @@ I am a passionate and detail-oriented Software Engineering Undergraduate with a 
 ---
 
 ### 💻 About Me
-- 🎓 **Education:** Completed Higher National Diploma in Software Engineering (HDSE) at NIBM & currently pursuing my Software Engineering Degree.
+- 🎓 **Education:** Completed the Higher National Diploma in Software Engineering (HDSE) at NIBM.
 - 🛠️ **Learning & Growth:** Advanced my full-stack skillset through real-world industry applications, product engineering collaboration, and continuous self-study.
 - 💡 **Interests:** Deeply interested in Enterprise Backend Development, Object-Oriented Programming (OOP), and crafting clean, scalable web solutions.
 - 🏋️‍♂️ **Lifestyle:** When I'm not writing code, you'll find me training at the gym, focusing on fitness, and continuously pushing my limits.
